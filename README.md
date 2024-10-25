@@ -1,3 +1,4 @@
+![Screenshot (217)](https://github.com/user-attachments/assets/81fc4d97-178c-4ece-abc6-467d27b1049c)
 # -DATA-ANALYSIS-USING-PowerBi-Hospital_Data_Analysis-
 
 This repository contains a comprehensive Healthcare Dashboard built with Power BI. It offers interactive visualizations and analytics to monitor key healthcare metrics and trends. Ideal for healthcare professionals and analysts, it facilitates data-driven decision-making through an intuitive, user-friendly interface
