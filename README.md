@@ -11,16 +11,10 @@ Comprehensive Analytics: Analyze key healthcare metrics and trends.
 User-friendly Interface: Easy to navigate with a clear layout.
 Real-time Data: Connect to live data sources for up-to-date information.
 
-File Structure
-Healthcare Dashboard.pbix: The main Power BI file containing the dashboard.
-
-README.md: This file.
-Data: Folder containing any static data files used in the dashboard (if applicable).
-Images: Folder containing screenshots or images of the dashboard (optional).
 
 Installation and Usage
 Clone the Repository
-git clone https://github.com/your-username/Healthcare-Dashboard-PowerBI.git
+
 Open Power BI Desktop
 Download and install Power BI Desktop. Open Healthcare Dashboard.pbix in Power BI Desktop
 
